@@ -1,0 +1,5801 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.140016,
+            16.778051
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "005U04ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.139957,
+            16.776802
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "005M03ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.141661,
+            16.776178
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "008M02ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.141688,
+            16.776737
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "008M03ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.139954,
+            16.776241
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FE",
+          "identifier": "005M02ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.139922,
+            16.775744
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "005M01ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.141986,
+            16.775336
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "LTTM01ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.142238,
+            16.77532
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "LTTM02ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.143538,
+            16.775609
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "HDNM02ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.141998,
+            16.775835
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "LTTM03ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.145353,
+            16.773698
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "013L01ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.143433,
+            16.775974
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "HDNM03ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.142262,
+            16.77599
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "LTTM04ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.140379,
+            16.776836
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "006M03ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.143572,
+            16.776371
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "HDNM04ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.142032,
+            16.776571
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "LTTM05ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.140365,
+            16.776287
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "006M02ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.143607,
+            16.776969
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FE",
+          "identifier": "HDNM05ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.142319,
+            16.77776
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "LTTU07ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.145369,
+            16.774129
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "013L02ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.145421,
+            16.775558
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "013M03ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.141237,
+            16.775673
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "007M01ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.145443,
+            16.77607
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "013M04ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.142689,
+            16.775657
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "009M01ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.142715,
+            16.776714
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "009M03ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.143973,
+            16.775545
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "011M02ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.14399,
+            16.776103
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FE",
+          "identifier": "011M03ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.144007,
+            16.776676
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FE",
+          "identifier": "011M04ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.145481,
+            16.777437
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "013U06ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.144028,
+            16.777552
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "011U05ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.143067,
+            16.775563
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "010M02ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.145742,
+            16.773243
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "Utility Pole",
+          "identifier": "014L01ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.143102,
+            16.776125
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "Utility Pole",
+          "identifier": "010M03ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.145765,
+            16.77365
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "014L02ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.143115,
+            16.776692
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "Utility Pole",
+          "identifier": "010M04ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.145794,
+            16.774165
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "Utility Pole",
+          "identifier": "014L03ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.144334,
+            16.77417
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FE",
+          "identifier": "012L01ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.145831,
+            16.775466
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "014M04ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.144378,
+            16.775525
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "012M02ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.145853,
+            16.776046
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "014M05ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.144411,
+            16.776119
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "012M03ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.145874,
+            16.776562
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "014M06ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.144438,
+            16.776727
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "012M04ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.145908,
+            16.77791
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "Utility Pole",
+          "identifier": "014U07ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.144486,
+            16.77743
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "012U05ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.144933,
+            16.774002
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "PGIL02ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.146208,
+            16.773097
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "STNL01ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.146101,
+            16.773521
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "Utility Pole",
+          "identifier": "STNL02ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.14495,
+            16.77438
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "PGIL04ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.144757,
+            16.775203
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "PGIM05ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.146231,
+            16.774033
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "STNL03ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.144946,
+            16.775562
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "PGIM06ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.146288,
+            16.775453
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "STNM05ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.14618,
+            16.775822
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "STNM06ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.144772,
+            16.775862
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "Utility Pole",
+          "identifier": "PGIM07ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.146342,
+            16.776295
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "STNM07ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.14497,
+            16.77609
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "PGIM08ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.146342,
+            16.776801
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "STNM08ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.146266,
+            16.77739
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "STNU09ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.146671,
+            16.774091
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "015L03ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.145055,
+            16.77665
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "PGIM10ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.143506,
+            16.777898
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "Utility Pole",
+          "identifier": "HDNU06ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.146647,
+            16.773599
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "015L02ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.144842,
+            16.776937
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "Utility Pole",
+          "identifier": "PGIM11ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.146616,
+            16.773088
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "015L01ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.145068,
+            16.777903
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "PGIU12ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.139517,
+            16.777146
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "WDNM07ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.139308,
+            16.776902
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "WDNM06ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.139504,
+            16.776605
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "WDNM05ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.139486,
+            16.775889
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "WDNM03ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.139268,
+            16.775618
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "WDNM02ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.139466,
+            16.775341
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "WDNM01ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.14086,
+            16.776846
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "KDNM03ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.140814,
+            16.775706
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "KDNM01ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.147309,
+            16.773566
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "016L01ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.147071,
+            16.773579
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "016L02ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.147086,
+            16.774049
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "016L03ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.147149,
+            16.77555
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "016M04ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.147156,
+            16.776022
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "Utility Pole",
+          "identifier": "016M05ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.147172,
+            16.776505
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "Utility Pole",
+          "identifier": "016M06ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.147367,
+            16.772761
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "LMWL01ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.147383,
+            16.773194
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "LMWL04ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.147441,
+            16.773735
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "LMWL06ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.147469,
+            16.774138
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "LMWL08ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.147503,
+            16.775268
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "LMWM10ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.147502,
+            16.775918
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FSE",
+          "identifier": "LMWM11ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.147555,
+            16.776567
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "LMWM13ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.147593,
+            16.777844
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "LMWU14ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.147622,
+            16.778168
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "Utility Pole",
+          "identifier": "LMWU15ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.14764,
+            16.778804
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "LMWU16ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.13887,
+            16.775364
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "STDX04ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.139202,
+            16.775213
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "STDX05ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.140807,
+            16.775082
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "STDX09ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.141943,
+            16.775046
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "STDX13ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.142575,
+            16.774616
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "STDX14ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.143193,
+            16.77426
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "STDX16ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.143453,
+            16.774136
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "STDX17ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.144931,
+            16.773371
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "STDX22ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.145249,
+            16.773215
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "STDX23ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.145482,
+            16.773093
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "Utility Pole",
+          "identifier": "STDX24ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.146608,
+            16.772495
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "STDX27ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.137372,
+            16.777517
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "ARAX02ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.137997,
+            16.777464
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "ARAX05ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.138552,
+            16.777486
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "ARAX07ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.138864,
+            16.777478
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FSE",
+          "identifier": "ARAX08ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.139295,
+            16.777455
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "ARAX12ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.139845,
+            16.777443
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "ARAX15ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.140189,
+            16.777546
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "ARAX17ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.140221,
+            16.77741
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "ARAX18ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.14038,
+            16.777379
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "ARAX19ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.14074,
+            16.777599
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "ARAX21ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.14087,
+            16.777431
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FSE",
+          "identifier": "ARAX22ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.141174,
+            16.777583
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "ARAX24ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.141305,
+            16.777356
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "ARAX25ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.141703,
+            16.777338
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "ARAX26ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.142318,
+            16.777514
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "ARAX30ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.146072,
+            16.777204
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "ARAX51ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.146542,
+            16.777392
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "ARAX53ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.146542,
+            16.777217
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "Passive",
+          "identifier": "___X54Z__Y",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.146772,
+            16.777176
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FSE",
+          "identifier": "ARAX55ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.147215,
+            16.777195
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "ARAX57ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.137556,
+            16.777117
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "001M01ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.137978,
+            16.776859
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "002M01ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.138416,
+            16.776271
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "003M01ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.138442,
+            16.776683
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "003M02ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.138455,
+            16.777017
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "003M03ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.138822,
+            16.775883
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "004M01ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.138852,
+            16.776738
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FE",
+          "identifier": "004M02ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.146711,
+            16.775522
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "015M04ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.146743,
+            16.776012
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "015M05ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.146762,
+            16.776695
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "015M06ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.145275,
+            16.779769
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "BGEX15ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.145857,
+            16.77973
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "BGEX16ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.146496,
+            16.779703
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "BGEX17ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.146659,
+            16.779945
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "Utility Pole",
+          "identifier": "BGEX18ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.147116,
+            16.779914
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "Utility Pole",
+          "identifier": "BGEX19ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.147696,
+            16.779873
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "BGEX20ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.142592,
+            16.777533
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FE",
+          "identifier": "ARAX31ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.142761,
+            16.777322
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "ARAX32ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.140098,
+            16.779678
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "BHSX01ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.141142,
+            16.779557
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "Passive",
+          "identifier": "BHSX03ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.141468,
+            16.779348
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "BHSX08ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.140082,
+            16.779033
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "BHSX09ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.14036,
+            16.779017
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "BHSX10ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.140605,
+            16.779013
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "BHSX11ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.14122,
+            16.778995
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "BHSX13ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.140071,
+            16.778844
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "BHSX14ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.140601,
+            16.778667
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "BHSX16ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.141209,
+            16.778654
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "BHSX17ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.140064,
+            16.778558
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "BHSX18ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.14121,
+            16.77834
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "BHSX19ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.140985,
+            16.778193
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "BHSX22ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.145086,
+            16.778586
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "PGIU15ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.138951,
+            16.777951
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "004U03ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.143589,
+            16.777533
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "ARAX35ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.143815,
+            16.777487
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "ARAX36ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.144016,
+            16.777262
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "ARAX38ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.14416,
+            16.777469
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "ARAX39ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.142639,
+            16.775014
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "MBAX01ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.143035,
+            16.775013
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FSE",
+          "identifier": "MBAX02ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.143504,
+            16.775037
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "Passive",
+          "identifier": "MBAX04ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.143932,
+            16.7748
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "MBAX05ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.144344,
+            16.774971
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "MBAX06ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.145048,
+            16.777299
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FSE",
+          "identifier": "ARAX44ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.144696,
+            16.774975
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "MBAX07ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.145212,
+            16.777419
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "ARAX45ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.14493,
+            16.774725
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "MBAX08ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.145411,
+            16.777257
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "ARAX46ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.145399,
+            16.774722
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "MBAX09ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.145702,
+            16.777406
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "ARAX47ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.145791,
+            16.774686
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FSE",
+          "identifier": "MBAX11ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.146259,
+            16.774665
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "MBAX13ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.146667,
+            16.774676
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "MBAX14ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.147096,
+            16.774673
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "MBAX15ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.147496,
+            16.774882
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "MBAX17ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.145784,
+            16.777226
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "ARAX49ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.140486,
+            16.779383
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "BHSX06ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.142193,
+            16.778653
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "LTTU08ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.139571,
+            16.778926
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "Passive",
+          "identifier": "WDNU10ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.139577,
+            16.779227
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "WDNU11ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.139584,
+            16.779416
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "WDNU12ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.139618,
+            16.779956
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "BGEX06ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.140015,
+            16.780082
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "BGEX07ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.140345,
+            16.780028
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FE",
+          "identifier": "BGEX08ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.140684,
+            16.779941
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "BGEX09ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.147573,
+            16.777331
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "ARAX58ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.147538,
+            16.77627
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "LMWM11ALWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.142064,
+            16.77695
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "LTTM06ALWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.144327,
+            16.774723
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "MBAX05ALWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.147228,
+            16.777345
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "ARAX57ALWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.145026,
+            16.778313
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "PGIU13ALWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.143556,
+            16.777271
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "Passive",
+          "identifier": "ARAX34ALWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.13886,
+            16.777158
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "004M02ALWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.146337,
+            16.779322
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "TYWX14ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.145958,
+            16.779354
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "TYWX15ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.146782,
+            16.779055
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "TYWX12ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.146961,
+            16.778854
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "TYWX10ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.146941,
+            16.778578
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "TYWX09ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.146887,
+            16.778235
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "TYWX08ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.145643,
+            16.778692
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "TYWX01ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.146076,
+            16.778859
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "TYWX04ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.146513,
+            16.77864
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "TYWX06ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.146023,
+            16.77814
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "TYWX02ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.146296,
+            16.778176
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "TYWX05ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.140447,
+            16.782344
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "FT-SBS",
+          "identifier": "MKRX01ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.1396,
+            16.78015
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "Utility Pole",
+          "identifier": "WDNU13ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.141134,
+            16.775097
+          ]
+        },
+        "properties": {
+          "township": "Lanmadaw",
+          "type": "Passive",
+          "identifier": "STDX10ZLWY",
+          "marker-color": "#ff0000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.147631,
+            16.772819
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "LMWL02ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.147653,
+            16.773306
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "LMWL03ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.147683,
+            16.773864
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "LMWL05ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.147709,
+            16.775197
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "LMWM09ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.147776,
+            16.77648
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "LMWM12ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.148077,
+            16.772958
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "017L01ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.148097,
+            16.773478
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "017L02ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.148113,
+            16.774029
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "017L03ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.148153,
+            16.77548
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "017M04ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.148184,
+            16.775963
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "017M05ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.148189,
+            16.776481
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "017M06ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.148498,
+            16.772839
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "018L01ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.148531,
+            16.773482
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "018L02ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.14856,
+            16.775383
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "018M04ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.148585,
+            16.775909
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "018M05ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.148607,
+            16.776497
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "018M06ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.14939,
+            16.772866
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "019L01ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.149411,
+            16.773357
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "019L02ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.14944,
+            16.773921
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "019L03ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.149478,
+            16.775327
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "019M04ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.149508,
+            16.775913
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "019M05ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.149523,
+            16.77647
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "019M06ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.149785,
+            16.772777
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "020L01ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.149812,
+            16.773421
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "020L02ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.149833,
+            16.773972
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "020L03ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.149898,
+            16.775351
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "020M04ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.149911,
+            16.775899
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "020M05ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.14994,
+            16.776449
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "020M06ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.150773,
+            16.772693
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "021L01ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.150798,
+            16.773359
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "021L02ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.150819,
+            16.77406
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "021L03ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.150939,
+            16.775234
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "021M04ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.150957,
+            16.775847
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "021M05ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.150995,
+            16.776479
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "021M06ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.151275,
+            16.772776
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "022L01ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.151295,
+            16.773359
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "022L02ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.151304,
+            16.773927
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "022L03ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.151346,
+            16.775313
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "022M04ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.151386,
+            16.775787
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "022M05ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.151395,
+            16.776459
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "022M06ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.152167,
+            16.772767
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "023L01ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.152194,
+            16.773318
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "023L02ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.152212,
+            16.773905
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "023L03ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.152186,
+            16.775255
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "023M04ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.15221,
+            16.775837
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "023M05ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.152233,
+            16.776419
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "023M06ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.152538,
+            16.772722
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "024L01ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.152539,
+            16.773316
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "024L02ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.152561,
+            16.773795
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "024L03ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.152622,
+            16.775277
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "024M04ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.152621,
+            16.775937
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "024M05ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.152641,
+            16.776257
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "024M06ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.148974,
+            16.773103
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "SONL01ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.148866,
+            16.773522
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "SONL02ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.148884,
+            16.773989
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "SONL03ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.148931,
+            16.775313
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "SONM04ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.149075,
+            16.775638
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "SONM05ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.148966,
+            16.776224
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "SONM06ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.150175,
+            16.772868
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "LTAL01ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.150198,
+            16.773362
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "LTAL02ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.150209,
+            16.77399
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "LTAL03ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.150253,
+            16.775351
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "LTAM04ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.15053,
+            16.775329
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "LTAM05ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.150527,
+            16.77588
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "LTAM06ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.150325,
+            16.775875
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "LTAM07ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.150319,
+            16.776469
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "LTAM08ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.150549,
+            16.776453
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "LTAM09ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.147973,
+            16.772363
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "STDX32ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.148482,
+            16.77231
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "STDX33ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.148951,
+            16.772344
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "STDX34ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.149506,
+            16.772286
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "STDX36ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.150753,
+            16.772205
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "STDX40ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.151272,
+            16.772178
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "STDX42ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.151604,
+            16.772181
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "STDX43ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.151883,
+            16.772197
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "STDX44ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.152716,
+            16.772154
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "STDX46ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.153019,
+            16.772489
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "SDAL01ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.15302,
+            16.772893
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "SDAL02ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.153023,
+            16.773657
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "SDAL03ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.153042,
+            16.773913
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "SDAL04ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.148525,
+            16.774012
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "018L03ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.15184,
+            16.775299
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "BYEM05ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.149141,
+            16.779588
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "BGEX22ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.149634,
+            16.779568
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "BGEX23ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.150045,
+            16.779552
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "BGEX24ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.151619,
+            16.772882
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "BYEL01ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.151644,
+            16.773575
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "BYEL03ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.151675,
+            16.774008
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "BYEL04ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.151725,
+            16.775592
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "BYEM06ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.151837,
+            16.776137
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "BYEM07ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.151855,
+            16.776643
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "BYEM08ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.147635,
+            16.772373
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "STDX31ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.147986,
+            16.779567
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "DR-Lite",
+          "identifier": "BGEX21ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.14818,
+            16.777123
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "ARAX61ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.149112,
+            16.777083
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "ARAX64ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.149574,
+            16.777079
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "ARAX66ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.15001,
+            16.777068
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "ARAX67ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.151464,
+            16.777025
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "ARAX70ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.15176,
+            16.777034
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "ARAX71ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.152264,
+            16.777028
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "ARAX72ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.15269,
+            16.776981
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "ARAX73ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.147698,
+            16.774664
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "MBAX18ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.148078,
+            16.774642
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FSE",
+          "identifier": "MBAX20ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.148556,
+            16.774624
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "MBAX22ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.148921,
+            16.774613
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "MBAX24ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.149446,
+            16.774537
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "MBAX25ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.149868,
+            16.774823
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "MBAX26ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.15025,
+            16.77452
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FSE",
+          "identifier": "MBAX27ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.150845,
+            16.774507
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "MBAX28ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.150917,
+            16.774774
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "MBAX29ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.151697,
+            16.774768
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "MBAX31ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.151742,
+            16.774474
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "MBAX32ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.15263,
+            16.774485
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "MBAX33ZLAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.153021,
+            16.773326
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "SDAL02ALAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            96.152211,
+            16.774788
+          ]
+        },
+        "properties": {
+          "township": "Latha",
+          "type": "FT-SBS",
+          "identifier": "023M04ALAY",
+          "marker-color": "#8000ff",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        }
+      }
+    ]
+  }
